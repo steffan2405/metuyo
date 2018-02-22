@@ -1,0 +1,29 @@
+
+.login-body{
+    text-align: center;
+    background: linear-gradient(white,#d3d8e8);
+}
+.login-image{
+    width: 30%;
+}
+.login-email{
+    width: 20%;
+    height: 35px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.login-password{
+    width: 20%;
+    height: 35px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.login-button{
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: rgb(0, 174, 255);
+    margin-bottom: 30px;
+}

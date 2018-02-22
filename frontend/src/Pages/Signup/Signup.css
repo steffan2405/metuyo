@@ -1,0 +1,21 @@
+
+.signup-email{
+    width: 20%;
+    height: 35px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.signup-password{
+    width: 20%;
+    height: 35px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.signup-button{
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: rgb(0, 174, 255);
+}
